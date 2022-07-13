@@ -2,7 +2,7 @@
 
 ## Olá! Seja bem-vindo ao meu livro de receitas :wave:
 
- - [Strogonoff de Frango](https://github.com/FawkesC05/dio-notes/receitas/strogonoff.md)
+ - [Strogonoff de Frango](https://github.com/FawkesC05/dio-notes/tree/main/receitas/strogonoff.md)
 
 ---
 

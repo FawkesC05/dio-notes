@@ -1,7 +1,7 @@
 # **Bootcamp Spread Fullstack Developer**
 ## *Índice de Módulos*
 
-- [**Módulo I - Conteúdo de abertura**](https://github.com/FawkesC05/dio-notes/Modulo-I_Conteudo-de-Abertura)
+- [**Módulo I - Conteúdo de abertura**](https://github.com/FawkesC05/dio-notes/tree/main/Modulo-I_Conteudo-de-Abertura)
 - **Módulo II - HTML/CSS3**
 - **Módulo III - Javascript**
 - **Módulo IV - ReactJS**

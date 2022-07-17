@@ -1,7 +1,7 @@
 # Primeiros Passos Para Desenvolvimento Web
 ## Aula Prática
 
-#### Código-fonte de página simples contendo trechos da obra taoísta "Dao De Jing", escrita pelo filósofo LaoZi [(*index.html*)](https://github.com/FawkesC05/dio-notes/tree/main/Spread-Bootcamp/Modulo-II_HTML-CSS3/Primeiros_Passos_Para_Desenvolvimento_Web/Aula_Pratica/index.html):
+#### Código-fonte de página simples contendo trechos da obra taoísta "Dao De Jing", escrita pelo filósofo LaoZi [(*index.html*)](Aula_Pratica/index.html):
 
 ``` <!doctype html>
 <html lang="en">
